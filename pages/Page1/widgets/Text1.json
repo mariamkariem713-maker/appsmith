@@ -11,12 +11,10 @@
     },
     {
       "key": "borderRadius"
-    },
-    {
-      "key": "text"
     }
   ],
   "dynamicHeight": "AUTO_HEIGHT",
+  "dynamicTriggerPathList": [],
   "fontFamily": "{{appsmith.theme.fontFamily.appFont}}",
   "fontSize": "1rem",
   "fontStyle": "BOLD",
@@ -40,7 +38,7 @@
   "responsiveBehavior": "fill",
   "rightColumn": 38,
   "shouldTruncate": false,
-  "text": "Hello {{appsmith.user.name || appsmith.user.email}}",
+  "text": "Hello Mariam",
   "textAlign": "LEFT",
   "textColor": "#231F20",
   "topRow": 37,
